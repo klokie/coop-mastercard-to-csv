@@ -39,8 +39,10 @@ The script will:
 
 ## Installation
 
+Install dependencies using pip and the requirements.txt file:
+
 ```bash
-pip install pandas openpyxl xlrd
+pip install -r requirements.txt
 ```
 
 ## Usage
